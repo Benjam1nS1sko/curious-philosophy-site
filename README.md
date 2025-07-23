@@ -40,4 +40,30 @@ No JavaScript or frameworks yet — by design.
 ## 🚀 How to View
 
 Once deployed, you can access the live site here:
+https://benjam1ns1sko.github.io/curious-philosophy-site/
+
+
+---
+
+## 🛠️ Future Enhancements
+
+- [ ] Add a blog or reflective writing section  
+- [ ] Connect GitHub Projects or AI demos  
+- [ ] Integrate newsletter/email capture  
+- [ ] Add animations and JS-driven interactions  
+- [ ] Deploy philosophical tools: “CTMU Oracle,” “Chaos Mapper,” etc.
+
+---
+
+## 🧠 Credits
+
+Created by [Benjam1nS1sko](https://github.com/Benjam1nS1sko) (aka Esau)  
+Crafted with vision, recursion, and a reverence for thought.
+
+---
+
+## 📄 License
+
+MIT License — feel free to fork and remix with credit.
+
 

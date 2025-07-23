@@ -1,7 +1,5 @@
-# curious-philosophy-site
-# Code for Curiousphilosophy.online
 
-# 🌌 Curious Philosophy Site
+# 🌌 Curious Philosophy Site Project
 
 Welcome to the official repository for **CuriousPhilosophy.com** — a minimalist, work-in-progress portfolio and thought-space for exploring AI, symbolic systems, speculative metaphysics, and philosophy-driven coding.
 
